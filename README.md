@@ -31,7 +31,6 @@ Supported inventory, sales, and marketing decision-making.
 ## 👩‍💻 Author
 **Omnia**  
 Aspiring Data Analyst  
-Focused on Excel, Data Visualization, and Business Intelligence.
 
 ---
 
